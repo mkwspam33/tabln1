@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_tabl1m.zzz_user" name="sn_tabl1m.zzz_user">27a92533dbe6b300d422769e0f961985</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-07-16 20:43:13</sys_created_on>
+        <sys_id>a7a9ad33dbe6b300d422769e0f9619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>27a92533dbe6b300d422769e0f961985</sys_name>
+        <sys_package display_value="tabl1m" source="sn_tabl1m">fe092133dbe6b300d422769e0f961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tabl1m">fe092133dbe6b300d422769e0f961979</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a7a9ad33dbe6b300d422769e0f9619bb</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-07-16 20:43:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

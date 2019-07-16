@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="zzz" max_length="40" name="sn_tabl1m_zzz" type="collection">
+        <element label="zxy1" max_length="40" name="zxy1" type="string"/>
+        <element label="zxy2" max_length="40" name="zxy2" type="string"/>
+    </element>
+</database>
